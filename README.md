@@ -13,8 +13,8 @@ This React application is a responsive layout builder that allows users to creat
 ## Installation
 
 - Clone the repository: <br />
-  `git clone https://github.com/your-username/recursive-partitioning-layout-builder.git` <br />
-  `cd recursive-partitioning-layout-builder`
+  `git clone https://github.com/Pronoy568/Recursive-Partitioning` <br />
+  `cd Recursive-Partitioning`
 - Install dependencies:
   npm install
 - Start the development server:
@@ -34,4 +34,4 @@ This React application is a responsive layout builder that allows users to creat
 - After clicking "V": The screen splits into two vertical partitions, each with "V" and "H" buttons.
 - Further splitting: Any partition can be split further using the "V" and "H" buttons, and partitions can be removed using the "-" button.
 
-## Live Link: 
+## Live Link: https://pronoy568.github.io/Recursive-Partitioning/
